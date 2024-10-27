@@ -5,3 +5,8 @@
 > Antes de inicializar a base deve-se colocar sua **key** e **steam key**.
 
 > Para obter utilize esses links **[Key Master](https://keymaster.fivem.net/)**, **[Steam Key](https://steamcommunity.com/dev/apikey)**
+
+```
+set steam_webApiKey "SUA_STEAM_KEY_AQUI"
+sv_licenseKey COLOQUE_SUA_KEY_AQUI
+```
